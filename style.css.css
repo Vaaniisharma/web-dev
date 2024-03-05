@@ -1,0 +1,23 @@
+
+#container{
+    border:2px red solid;
+    height:500px;
+}
+    #container>div{
+    height:100px;
+    width:100px;
+    color:red;
+    background-color: lavender;
+    display:flex;
+    align-items: center;
+    text-align: center;
+position:fixed;
+top:20px;
+left:50px;
+}
+body{
+    background-color: black;
+}
+p{
+    color:white;
+}
